@@ -1,5 +1,5 @@
 document.getElementById('yes-btn').addEventListener('click', function() {
-    document.getElementById('message').innerHTML = "tớ cũng iu cậu ♥!";
+    document.getElementById('message').innerHTML = "Tớ cũng iu cậu ♥!";
 });
 
 document.getElementById('no-btn').addEventListener('mouseover', function() {
